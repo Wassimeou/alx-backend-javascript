@@ -1,1 +1,1 @@
-#!/usr/bin/node
+6-payment_token.test.js

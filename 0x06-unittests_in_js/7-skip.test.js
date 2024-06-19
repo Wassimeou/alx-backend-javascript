@@ -1,1 +1,1 @@
-#!/usr/bin/node
+7-skip.test.js
